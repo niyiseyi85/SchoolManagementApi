@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "EcyF1KH5ozl9J6vWGNNWFcp4iQpVn41ZRW1LTp9xBRbcMA4UFCQpTGbEk8+LOueCw4k0jyDerD9iTrgbawJkLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Great\\source\\repos\\SchoolManagementApi\\src\\SchoolManagement.Model\\SchoolManagement.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Great\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Great\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
